@@ -1,0 +1,4 @@
+# In your project root, create a .gitignore file with content like:
+.vscode/
+*.log
+node_modules/

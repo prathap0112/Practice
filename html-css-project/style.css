@@ -1,0 +1,56 @@
+.One{
+    border: 1px solid black;
+    border-radius: 3px;
+    padding:20px;
+    background-color: rgb(231, 208, 231);
+    color: black;
+    text-align: center;
+}
+.two{
+    background-color: 	rgb(128,0,128);
+    border: 1px solid black;
+    padding:20px;
+    border-radius: 5px;
+    color: aliceblue;
+    text-align: center;
+}
+.four{
+    padding: 20px;
+    text-align: center;
+}
+table,th,td{
+    border: 1px solid black;
+    border-collapse: collapse;
+  
+}
+.five{
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 20px;
+    text-align: center;
+}
+.six{
+    background-color: rgb(231, 208, 231);
+    border: 1px solid black;
+    padding:20px;
+    border-radius: 5px;
+    color: black;
+
+}
+.six-one{
+    display: inline-flex;
+}
+.six-two{
+    display: inline-flex;
+}
+a{
+    text-align: center;
+    text-decoration: none;
+}
+button{
+    border: 1px solid black;
+    border-radius: 3px;
+    background-color:   #c44dff;
+    font-size: 20px;
+    padding: 5px;
+}
